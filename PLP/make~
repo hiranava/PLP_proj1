@@ -1,0 +1,16 @@
+##===============================================
+
+p1 : PLP.o Node.o stdafx.o
+	g++ -o p1 PLP.o Node.o stdafx.o
+
+PLP.o : PLP.cpp Node.h stdafx.h
+	g++ -c PLP.cpp
+Node.o : Node.cpp Node.h
+	g++ -c Node.cpp
+stdafx.o : stdafx.cpp 
+		g++ -c stdafx.cpp
+run:
+    ./p1
+
+cl:
+    rm -f *.o p1

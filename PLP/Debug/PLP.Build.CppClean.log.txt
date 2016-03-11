@@ -1,0 +1,13 @@
+c:\users\lenovo\documents\visual studio 2013\projects\plp\plp\debug\plp.pch
+c:\users\lenovo\documents\visual studio 2013\projects\plp\plp\debug\vc120.pdb
+c:\users\lenovo\documents\visual studio 2013\projects\plp\plp\debug\vc120.idb
+c:\users\lenovo\documents\visual studio 2013\projects\plp\plp\debug\stdafx.obj
+c:\users\lenovo\documents\visual studio 2013\projects\plp\plp\debug\node.obj
+c:\users\lenovo\documents\visual studio 2013\projects\plp\plp\debug\plp.obj
+c:\users\lenovo\documents\visual studio 2013\projects\plp\debug\plp.exe
+c:\users\lenovo\documents\visual studio 2013\projects\plp\plp\debug\plp.tlog\cl.command.1.tlog
+c:\users\lenovo\documents\visual studio 2013\projects\plp\plp\debug\plp.tlog\cl.read.1.tlog
+c:\users\lenovo\documents\visual studio 2013\projects\plp\plp\debug\plp.tlog\cl.write.1.tlog
+c:\users\lenovo\documents\visual studio 2013\projects\plp\plp\debug\plp.tlog\link.command.1.tlog
+c:\users\lenovo\documents\visual studio 2013\projects\plp\plp\debug\plp.tlog\link.read.1.tlog
+c:\users\lenovo\documents\visual studio 2013\projects\plp\plp\debug\plp.tlog\link.write.1.tlog
